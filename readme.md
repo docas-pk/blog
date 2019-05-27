@@ -7,5 +7,4 @@
     git push -u origin master                                          本地分支绑定远端分支，并将代码提交到远端分支
     git log                                                            查看提交日志
     git branch -vv                                                     查看所有的分支情况
-    
-  
+    git checkout -f                                                    使用远端分支覆盖暂存区和本地的修改
